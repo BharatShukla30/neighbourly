@@ -1,0 +1,10 @@
+edit/add new coins screen:
+	change qty of coins
+	change bought price of coins
+	add new coins or add more qty of old coins
+	remove coins
+
+
+main dashboard:
+	view the line graph, candlestick on dashboard
+	
